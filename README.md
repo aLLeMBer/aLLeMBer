@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://api.daily.dev/devcards/6d9c2536da3c44ab9df161c368f7e78f.png?r=w6x
+
 <!--
 **aLLeMBer/aLLeMBer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
